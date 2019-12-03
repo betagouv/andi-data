@@ -28,7 +28,7 @@ note: si vous préférez **pip**, un `pip install jupyter` suivi de  `jupyter no
 - les listings générés par les notebooks le sont dans le répertoire **outputs**
 
 
-## Les notebooks:
+## Les notebooks :
 
 ### pg_siren_export
 Test sur les données de la base de données SIRENE tels que stockées dans la BD PostgreSQL d'ANDi,
