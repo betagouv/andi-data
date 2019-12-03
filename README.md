@@ -29,6 +29,8 @@ note: si vous préférez **pip**, un `pip install jupyter` suivi de  `jupyter no
 
 
 ## Les notebooks :
+Les notebooks contiennent leur propre documentation, autant sous forme de commentaires que sous forme de cellules de texte.
+Une connaissance de base des outils et concepts en science des données sous Python (numpy, panda, matpotlib) est suggérée pour leur pleine compréhension et utilisation.
 
 ### pg_siren_export
 Test sur les données de la base de données SIRENE tels que stockées dans la BD PostgreSQL d'ANDi,
