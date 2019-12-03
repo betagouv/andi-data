@@ -10,7 +10,7 @@
 [ANDi](https://andi.beta.gouv.fr) est une service numérique en développement visant à faciliter l'immersion professionnelle des personnes en situation de handicap.
 
 # 🧪 andi-data
-Outils et résultats d'analyses de données d'ANDi, sous forme de notebooks jupyter.
+Outils, traitements et résultats d'analyses de données d'ANDi, sous forme de notebooks jupyter.
 
 #### Pour lancer l'environnement notebook:
 
@@ -21,7 +21,7 @@ Outils et résultats d'analyses de données d'ANDi, sous forme de notebooks jupy
 
 note: si vous préférez **pip**, un `pip install jupyter` suivi de  `jupyter notebook` suffit également, bien que certains dépendances pourraient manquer (cf `requirements.txt`).
 
-#### Quant au répertoires:
+#### Quant au répertoires :
 
 - les différents notebooks se trouvent dans le répertoire **notebooks**
 - ressources et référentiels sont dans le répertoire **ressources**
@@ -40,11 +40,11 @@ Premières analyses sur les codes ROME et NAF afin de générer un tableau de co
 ### correspondance_rome_naf
 Notebook qui génère le tableau de correspondance ROME vers NAF à destination du composant matching d'ANDi
 
-## Les ressources
+## Les ressources :
 [Le repository de LaBonneBoîte (Pôle Emploi)](https://github.com/StartupsPoleEmploi/labonneboite) contient 
 quantité de ressources et analyses très intéressantes qui se sont révélées cruciales au développement du 
 service matching d'ANDi. Les notebooks et analyses de ce repository ne sont que la continuation des travaux
 entamés par LBB.
 
-## Les résultats
+## Les résultats :
 - andi\_rome2naf\_\[date\].csv : tableau de correspondance ROME vers NAF
