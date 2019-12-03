@@ -12,12 +12,14 @@
 # 🧪 andi-data
 Outils et résultats d'analyses de données d'ANDi, sous forme de notebooks jupyter.
 
-#### Pour lancer l'environnement notebook, il vous suffit de:
+#### Pour lancer l'environnement notebook:
 
-- avoir Python 3.7 dans votre environnement
+- disposer Python 3.7 dans votre environnement
 - disposer de pipenv
 - lancer `pipenv install` à la racine du projet
-- lancer *jupyter* par la commande `make jupyter`
+- lancer **jupyter** par la commande `make jupyter`
+
+note: si vous préférez **pip**, un `pip install jupyter` suivi de  `jupyter notebook` suffit également, bien que certains dépendances pourraient manquer (cf `requirements.txt`).
 
 #### Quant au répertoires:
 
