@@ -49,4 +49,4 @@ service matching d'ANDi. Les notebooks et analyses de ce repository ne sont que 
 entamés par LBB.
 
 ## Les résultats :
-- andi\_rome2naf\_\[date\].csv : tableau de correspondance ROME vers NAF
+- andi\_rome2naf\_\[date\].csv : tableau de correspondance pondéré ROME vers NAF
