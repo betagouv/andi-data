@@ -40,7 +40,15 @@ première analys sur la taille des secteurs d'activité (par NAF) et le nombre d
 Premières analyses sur les codes ROME et NAF afin de générer un tableau de correspondance.
 
 ### correspondance_rome_naf
-Notebook qui génère le tableau de correspondance ROME vers NAF à destination du composant matching d'ANDi
+Notebook qui génère le tableau de correspondance ROME vers NAF à destination du composant matching d'ANDi.
+
+### geogocage_entreprises
+Travail de vérification de l'import des entreprises: plotting et heatmap sur la carte du territoire de la France métropolitaine.
+
+### matching_refactor
+Vu les besoins croissants de performance de l'algo de matching, un notebook à été organisé pour essayer diverses alternatives. 
+La solution finale, impliquant le passage sous PostGIS et la réecriture de l'algorithme, améliore la performance d'un ordre de grandeur,
+passant pour la recherche sur Paris de 8s à 800ms. 
 
 ## Les ressources :
 [Le repository de LaBonneBoîte (Pôle Emploi)](https://github.com/StartupsPoleEmploi/labonneboite) contient 
