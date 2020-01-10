@@ -50,6 +50,10 @@ Vu les besoins croissants de performance de l'algo de matching, un notebook à �
 La solution finale, impliquant le passage sous PostGIS et la réecriture de l'algorithme, améliore la performance d'un ordre de grandeur,
 passant pour la recherche sur Paris de 8s à 800ms. 
 
+### suggestion_rome_ogr
+Travail sur la suggestion des ROME à partir d'une saisie texte.
+La recherche se fait sur base des labels des codes ROME et OGR, en Python pur.
+
 ## Les ressources :
 [Le repository de LaBonneBoîte (Pôle Emploi)](https://github.com/StartupsPoleEmploi/labonneboite) contient 
 quantité de ressources et analyses très intéressantes qui se sont révélées cruciales au développement du 
