@@ -17,6 +17,7 @@ psycopg2-binary = "*"
 pandas = "*"
 fuzzywuzzy = "*"
 python-levenshtein = "*"
+whoosh = "*"
 
 [requires]
 python_version = "3.7"
