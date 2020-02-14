@@ -18,6 +18,7 @@ pandas = "*"
 fuzzywuzzy = "*"
 python-levenshtein = "*"
 whoosh = "*"
+python-slugify = "*"
 
 [requires]
 python_version = "3.7"
