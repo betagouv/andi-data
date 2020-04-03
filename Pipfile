@@ -19,6 +19,7 @@ fuzzywuzzy = "*"
 python-levenshtein = "*"
 whoosh = "*"
 python-slugify = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
